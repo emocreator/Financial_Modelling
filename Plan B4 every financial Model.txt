@@ -1,0 +1,44 @@
+Issues to consider:
+Model Planning
+Model Tab Structure
+Model Flow
+
+Major Issues/Key Drivers
+- Identify Critical Assumptions that are hard to forecast 
+- Identify Critical Assumptions that are hard for management to control
+- Run a few Cases in the model (Base, Best, Worst etc..) 
+- Key drivers are often Economic variables (Usually 2-6 Key drivers)
+
+Economic variables:
+- Commodity prices
+- Inflation
+- Exchange rates
+- Interest rates
+
+Assumptions
+- All components of company.
+- Ask good questions
+
+Vertical orientation
+- Limit number of sheets in the fille
+- Most calculations in the forecast are on one sheet (schedules and the financial statement)
+- Order: Cover-> Summary -> Assumptions -> Scenarios -> Model Sheet
+- Model Sheet order: Revenue forecast-> Operating Cost-> Income statement-> Cashflow statement-> Balance Sheet
+
+Horizontal orientation
+- Each component is on its own sheet
+- Usually each financial statement and each schedule is on its own sheet
+- Order: Cover-> Summary -> Assumptions -> Scenarios -> Income statement-> Cashflow statement-> Balance Sheet->Revenue-> etc..
+
+Hybrid Approach
+- Cover, Summary, Assumptions, Scenarios, Financial Statements, All Schedules.
+
+Model Planning:
+1) Identify major issues and key drivers
+2) Make a list of all Assumptions, with all the data provided or data needed to collect
+3) What will the model look like on paper when finished (optimal model flow, optimal order to present the model)
+
+Tab Structure:
+- Vertical orientation
+- Horizontal orientation
+- Hybrid
