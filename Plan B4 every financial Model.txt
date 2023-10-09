@@ -33,12 +33,17 @@ Horizontal orientation
 Hybrid Approach
 - Cover, Summary, Assumptions, Scenarios, Financial Statements, All Schedules.
 
-Model Planning:
+1) Model Planning:
 1) Identify major issues and key drivers
 2) Make a list of all Assumptions, with all the data provided or data needed to collect
 3) What will the model look like on paper when finished (optimal model flow, optimal order to present the model)
 
-Tab Structure:
+2) Tab Structure:
 - Vertical orientation
 - Horizontal orientation
 - Hybrid
+
+3) Model Flow:
+- Presenting the model (Optimal communication of the file)
+- Recommended: Cover page-> Executive Summary -> Assumptions -> Scenarios-> Operating Schedules - Revenues and Costs -> Financial Statements 
+-> Financial Schedules (Depreciation, Tax, Working Capital, Debt, Equity) -> Outputs Calculations (Ratios, Valuation: DCF,IRRS)
